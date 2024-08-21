@@ -15,4 +15,4 @@ The project includes the following key components:
 The app is deployedon Huggingface and can be accessed here - [Demo](https://huggingface.co/spaces/Azreal18/Hindi-Tokenizer).
 
 
-![Gradio App Snap Shot](imgs\Tokenizer_img.png)
+![Gradio App Snap Shot](imgs\Tokenizer_img.png)/
